@@ -1,0 +1,97 @@
+/* General body styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f7fc;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+/* Header styles */
+h1 {
+    text-align: center;
+    font-size: 2.5rem;
+    color: #3a3a3a;
+    margin-top: 50px;
+}
+
+/* Main container styling */
+form {
+    background-color: #fff;
+    max-width: 600px;
+    margin: 30px auto;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Form header */
+form h2 {
+    text-align: center;
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+    color: #4CAF50;
+}
+
+/* Label styling */
+label {
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: #555;
+    display: block;
+    margin-bottom: 8px;
+}
+
+/* Select and input styling */
+select, input[type="file"], button {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 20px;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    font-size: 1.1rem;
+    color: #333;
+    box-sizing: border-box;
+}
+
+/* Focused input fields and select dropdown */
+select:focus, input[type="file"]:focus, button:focus {
+    border-color: #4CAF50;
+    outline: none;
+}
+
+/* Button styling */
+button {
+    background-color: #4CAF50;
+    color: white;
+    font-size: 1.2rem;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+/* Button hover effect */
+button:hover {
+    background-color: #45a049;
+}
+
+/* Button active effect */
+button:active {
+    background-color: #388e3c;
+}
+
+/* Responsive design for smaller screens */
+@media (max-width: 600px) {
+    form {
+        padding: 20px;
+        width: 90%;
+    }
+
+    h1 {
+        font-size: 2rem;
+    }
+
+    form h2 {
+        font-size: 1.5rem;
+    }
+}

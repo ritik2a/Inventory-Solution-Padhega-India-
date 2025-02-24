@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- 🔥 Modified Title with Emoji Icon -->
+    <title> Stocksheet Preprocessor</title>  
+
+    <link rel="stylesheet" href="/static/styles.css">
+    
+    <!-- 🔥 Added Favicon -->
+    <link rel="icon" type="image/x-icon" href="/static/favicon.ico"> 
+
+</head>
+<body>
+    <h1>Stock Sheet Preprocessor</h1>
+    <form action="/upload" method="POST" enctype="multipart/form-data">
+        <label for="publisher">Select Publisher:</label>
+        <select name="publisher" id="publisher">
+            {% for publisher in publishers %}
+                <option value="{{ publisher }}">{{ publisher }}</option>
+            {% endfor %}
+        </select>
+        <br><br>
+        <label for="file">Upload File:</label>
+        <input type="file" name="file" id="file" required>
+        <br><br>
+        <button type="submit">Process File</button>
+    </form>
+</body>
+</html>
