@@ -1,106 +1,10 @@
 {
-    "Rupa": {
-        "ISBN": 1,
+    "ACK":{
+        "ISBN": 4,
         "Title": 3,
-        "Price": 5,
+        "Price": 6,
         "Stock": 7,
-        "Publisher": 4,
-        "Threshold": 0
-    },
-    "RUPA AAJ": {
-        "ISBN": 1,
-        "Title": 3,
-        "Price": 5,
-        "Stock": 4,
-        "Publisher": 0,
-        "Threshold": 0
-    },
-    "PRH": {
-        "ISBN": 5,
-        "Title": 7,
-        "Price": 0,
-        "Stock": 11,
-        "Publisher": 1,
-        "Threshold": 0
-    },
-    "BLOOMSBURY": {
-        "ISBN": 1,
-        "Title": 2,
-        "Price": 5,
-        "Stock": 6,
-        "Publisher": 7,
-        "Threshold": 0
-    },
-    "PRAKASH": {
-        "ISBN": 3,
-        "Title": 5,
-        "Price": 10,
-        "Stock": 12,
-        "Publisher": 6,
-        "Threshold": 0
-    },
-    "PRAKASH N": {
-        "ISBN": 2,
-        "Title": 3,
-        "Price": 9,
-        "Stock": 10,
-        "Publisher": 5,
-        "Threshold": 0
-    },
-    "IBD": {
-        "ISBN": 3,
-        "Title": 4,
-        "Price": 1,
-        "Stock": 2,
-        "Publisher": 5,
-        "Threshold": 0
-    },
-    "Prabhat": {
-        "ISBN": 4,
-        "Title": 8,
-        "Price": 10,
-        "Stock": 15,
-        "Publisher": 0,
-        "Threshold": 0
-    },
-    "Invincible": {
-        "ISBN": 1,
-        "Title": 2,
-        "Price": 7,
-        "Stock": 8,
-        "Publisher": 4,
-        "Threshold": 0
-    },
-    "OM1":{
-        "ISBN": 2,
-        "Title": 3,
-        "Price": 8,
-        "Stock": 11,
-        "Publisher": 5,
-        "Threshold": 0
-    },
-    "OM2":{
-        "ISBN": 2,
-        "Title": 3,
-        "Price": 8,
-        "Stock": 11,
-        "Publisher": 5,
-        "Threshold": 0
-    },
-    "Simon":{
-        "ISBN": 1,
-        "Title": 2,
-        "Price": 8,
-        "Stock": 9,
-        "Publisher": 0,
-        "Threshold": 0
-    },
-    "Manohar":{
-        "ISBN": 4,
-        "Title": 2,
-        "Price": 7,
-        "Stock": 0,
-        "Publisher": 8,
+        "Publisher":0,
         "Threshold": 0
     },
     "Adhya":{
@@ -111,68 +15,12 @@
         "Publisher": 3,
         "Threshold": 0
     },
-    "Variety":{
-        "ISBN": 1,
-        "Title": 2,
-        "Price": 4,
-        "Stock": 5,
-        "Publisher": 7,
-        "Threshold": 0
-    },
-    "Rajkamal":{
-        "ISBN": 1,
-        "Title": 2,
-        "Price": 11,
-        "Stock": 12,
-        "Publisher": 8,
-        "Threshold": 0
-    },
-    "Atlantic":{
-        "ISBN": 1,
+    "Advait Ashram":{
+        "ISBN": 11,
         "Title": 4,
-        "Price": 14,
-        "Stock": 11,
-        "Publisher": 8,
-        "Threshold": 0
-    },
-    "Empty Canvas":{
-        "ISBN": 1,
-        "Title": 3,
-        "Price": 9,
-        "Stock": 8,
-        "Publisher": 5,
-        "Threshold": 0
-    },
-    "Manjul":{
-        "ISBN": 1,
-        "Title": 2,
         "Price": 5,
-        "Stock": 11,
-        "Publisher": 3,
-        "Threshold": 0
-    },
-    "Roli":{
-        "ISBN": 1,
-        "Title": 3,
-        "Price": 13,
-        "Stock": 0,
-        "Publisher": 5,
-        "Threshold": 0
-    },
-    "DK Printworld":{
-        "ISBN": 15,
-        "Title": 1,
-        "Price": 17,
-        "Stock": 23,
-        "Publisher": 10,
-        "Threshold": 0
-    },
-    "Harper":{
-        "ISBN": 1,
-        "Title": 2,
-        "Price": 9,
-        "Stock": 8,
-        "Publisher": 4,
+        "Stock": 6,
+        "Publisher": 13,
         "Threshold": 0
     },
     "Aryan":{
@@ -183,6 +31,54 @@
         "Publisher": 0,
         "Threshold": 0
     },
+    "Atlantic":{
+        "ISBN": 1,
+        "Title": 4,
+        "Price": 14,
+        "Stock": 11,
+        "Publisher": 8,
+        "Threshold": 0
+    },
+    "Black Swan":{
+        "ISBN": 1,
+        "Title": 2,
+        "Price": 5,
+        "Stock": 4,
+        "Publisher":0,
+        "Threshold": 0
+    },
+    "BluOne Ink":{
+        "ISBN": 2,
+        "Title": 3,
+        "Price": 8,
+        "Stock": 9,
+        "Publisher": 6,
+        "Threshold": 0
+    },
+    "Bloomsbury": {
+        "ISBN": 1,
+        "Title": 2,
+        "Price": 5,
+        "Stock": 6,
+        "Publisher": 7,
+        "Threshold": 0
+    },
+    "BPB":{
+        "ISBN": 1,
+        "Title": 2,
+        "Price": 4,
+        "Stock": 5,
+        "Publisher":0,
+        "Threshold": 0
+    },
+    "DK Printworld":{
+        "ISBN": 15,
+        "Title": 1,
+        "Price": 17,
+        "Stock": 23,
+        "Publisher": 10,
+        "Threshold": 0
+    },
     "DK Printworld (Distibution)":{
         "ISBN": 7,
         "Title": 1,
@@ -191,108 +87,12 @@
         "Publisher": 3,
         "Threshold": 0
     },
-    "Jaico":{
-        "ISBN": 5,
-        "Title": 2,
-        "Price": 4,
-        "Stock": 0,
-        "Publisher": 0,
-        "Threshold": 0
-    },
-    "Pan":{
-        "ISBN": 2,
-        "Title": 3,
-        "Price": 30,
-        "Stock": 50,
-        "Publisher": 6,
-        "Threshold": 0
-    },
-    "KW Pub.":{
-        "ISBN": 2,
-        "Title": 3,
-        "Price": 6,
-        "Stock": 7,
-        "Publisher": 0,
-        "Threshold": 0
-    },
-    "OUP":{
+    "Empty Canvas":{
         "ISBN": 1,
         "Title": 3,
         "Price": 9,
-        "Stock": 0,
-        "Publisher": 0,
-        "Threshold": 0
-    },
-    "viva":{
-        "ISBN": 1,
-        "Title": 2,
-        "Price": 6,
-        "Stock": 13,
-        "Publisher": 3,
-        "Threshold": 0
-    },
-    "westland":{
-        "ISBN": 1,
-        "Title": 2,
-        "Price": 7,
         "Stock": 8,
-        "Publisher": 4,
-        "Threshold": 0
-    },
-    "Pentagaon":{
-        "ISBN": 2,
-        "Title": 1,
-        "Price": 3,
-        "Stock": 11,
-        "Publisher":6,
-        "Threshold": 0
-    },
-    "VITASTA":{
-        "ISBN": 1,
-        "Title": 2,
-        "Price": 10,
-        "Stock": 4,
-        "Publisher":0,
-        "Threshold": 0
-    },
-    "BLACK SWAN":{
-        "ISBN": 1,
-        "Title": 2,
-        "Price": 5,
-        "Stock": 4,
-        "Publisher":0,
-        "Threshold": 0
-    },
-    "Niyogi":{
-        "ISBN": 7,
-        "Title": 3,
-        "Price": 10,
-        "Stock": 2,
-        "Publisher":8,
-        "Threshold": 0
-    },
-    "Mittal":{
-        "ISBN": 5,
-        "Title": 1,
-        "Price": 4,
-        "Stock": 0,
-        "Publisher":0,
-        "Threshold": 0
-    },
-    "Popular":{
-        "ISBN": 1,
-        "Title": 3,
-        "Price": 5,
-        "Stock": 0,
-        "Publisher":0,
-        "Threshold": 0
-    },
-    "SK Kataria & Sons":{
-        "ISBN": 1,
-        "Title": 2,
-        "Price": 4,
-        "Stock": 12,
-        "Publisher":0,
+        "Publisher": 5,
         "Threshold": 0
     },
     "Gyan":{
@@ -303,12 +103,236 @@
         "Publisher":10,
         "Threshold": 0
     },
-    "ACK":{
-        "ISBN": 4,
+    "Harper":{
+        "ISBN": 1,
+        "Title": 2,
+        "Price": 9,
+        "Stock": 8,
+        "Publisher": 4,
+        "Threshold": 0
+    },
+    "IBD": {
+        "ISBN": 3,
+        "Title": 4,
+        "Price": 1,
+        "Stock": 2,
+        "Publisher": 5,
+        "Threshold": 0
+    },
+    "Invincible": {
+        "ISBN": 1,
+        "Title": 2,
+        "Price": 7,
+        "Stock": 8,
+        "Publisher": 4,
+        "Threshold": 0
+    },
+    "Jaico":{
+        "ISBN": 5,
+        "Title": 2,
+        "Price": 4,
+        "Stock": 0,
+        "Publisher": 0,
+        "Threshold": 0
+    },
+    "Kaveri":{
+        "ISBN": 2,
+        "Title": 4,
+        "Price": 9,
+        "Stock": 12,
+        "Publisher": 10,
+        "Threshold": 0
+    },
+    "KW Pub.":{
+        "ISBN": 2,
         "Title": 3,
         "Price": 6,
         "Stock": 7,
+        "Publisher": 0,
+        "Threshold": 0
+    },
+    "Lancer":{
+        "ISBN": 1,
+        "Title": 2,
+        "Price": 5,
+        "Stock": 0,
         "Publisher":0,
+        "Threshold": 0
+    },
+    "Lov Dev":{
+        "ISBN": 1,
+        "Title": 2,
+        "Price": 5,
+        "Stock": 0,
+        "Publisher": 3,
+        "Threshold": 0 
+    },
+    "Manjul":{
+        "ISBN": 1,
+        "Title": 2,
+        "Price": 5,
+        "Stock": 11,
+        "Publisher": 3,
+        "Threshold": 0
+    },
+    "Manohar":{
+        "ISBN": 4,
+        "Title": 2,
+        "Price": 7,
+        "Stock": 0,
+        "Publisher": 8,
+        "Threshold": 0
+    },
+    "Mittal":{
+        "ISBN": 5,
+        "Title": 1,
+        "Price": 4,
+        "Stock": 0,
+        "Publisher":0,
+        "Threshold": 0
+    },
+    "MLBD":{
+        "ISBN": 1,
+        "Title": 2,
+        "Price": 4,
+        "Stock": 0,
+        "Publisher":6,
+        "Threshold": 0
+    },
+    "Niyogi":{
+        "ISBN": 7,
+        "Title": 3,
+        "Price": 10,
+        "Stock": 2,
+        "Publisher":8,
+        "Threshold": 0
+    },
+    "OM1":{
+        "ISBN": 2,
+        "Title": 3,
+        "Price": 8,
+        "Stock": 11,
+        "Publisher": 5,
+        "Threshold": 0
+    },  
+    "OM2":{
+        "ISBN": 2,
+        "Title": 3,
+        "Price": 8,
+        "Stock": 11,
+        "Publisher": 5,
+        "Threshold": 0
+    },
+    "OUP":{
+        "ISBN": 1,
+        "Title": 3,
+        "Price": 9,
+        "Stock": 0,
+        "Publisher": 0,
+        "Threshold": 0
+    },
+    "Oxford":{
+        "ISBN": 1,
+        "Title": 3,
+        "Price": 9,
+        "Stock": 0,
+        "Publisher": 7,
+        "Threshold": 0
+    },
+    "Pan":{
+        "ISBN": 2,
+        "Title": 3,
+        "Price": 30,
+        "Stock": 50,
+        "Publisher": 6,
+        "Threshold": 0
+    },
+    "Pentagaon":{
+        "ISBN": 2,
+        "Title": 1,
+        "Price": 3,
+        "Stock": 11,
+        "Publisher":6,
+        "Threshold": 0
+    },
+    "Popular":{
+        "ISBN": 1,
+        "Title": 3,
+        "Price": 5,
+        "Stock": 0,
+        "Publisher":0,
+        "Threshold": 0
+    },
+    "Prabhat": {
+        "ISBN": 4,
+        "Title": 8,
+        "Price": 10,
+        "Stock": 15,
+        "Publisher": 0,
+        "Threshold": 0
+    },
+    "Prakash": {
+        "ISBN": 3,
+        "Title": 5,
+        "Price": 10,
+        "Stock": 12,
+        "Publisher": 6,
+        "Threshold": 0
+    },
+    "Prakash N": {
+        "ISBN": 2,
+        "Title": 3,
+        "Price": 9,
+        "Stock": 10,
+        "Publisher": 5,
+        "Threshold": 0
+    },
+    "PRH": {
+        "ISBN": 5,
+        "Title": 7,
+        "Price": 0,
+        "Stock": 11,
+        "Publisher": 1,
+        "Threshold": 0
+    },
+    "Raghav":{
+        "ISBN": 1,
+        "Title": 2,
+        "Price": 6,
+        "Stock": 7,
+        "Publisher":4,
+        "Threshold": 0
+    },
+    "Rajkamal":{
+        "ISBN": 1,
+        "Title": 2,
+        "Price": 11,
+        "Stock": 12,
+        "Publisher": 8,
+        "Threshold": 0
+    },
+    "Rupa": {
+        "ISBN": 1,
+        "Title": 3,
+        "Price": 5,
+        "Stock": 7,
+        "Publisher": 4,
+        "Threshold": 0
+    },
+    "Rupa AAJ": {
+        "ISBN": 1,
+        "Title": 3,
+        "Price": 5,
+        "Stock": 4,
+        "Publisher": 0,
+        "Threshold": 0
+    },
+    "Roli":{
+        "ISBN": 1,
+        "Title": 3,
+        "Price": 13,
+        "Stock": 0,
+        "Publisher": 5,
         "Threshold": 0
     },
     "RPH Little Scholarz":{
@@ -327,27 +351,19 @@
         "Publisher":11,
         "Threshold": 0
     },
-    "MLBD":{
+    "Simon":{
+        "ISBN": 1,
+        "Title": 2,
+        "Price": 8,
+        "Stock": 9,
+        "Publisher": 0,
+        "Threshold": 0
+    },
+    "SK Kataria & Sons":{
         "ISBN": 1,
         "Title": 2,
         "Price": 4,
-        "Stock": 0,
-        "Publisher":6,
-        "Threshold": 0
-    },
-    "VOI":{
-        "ISBN": 2,
-        "Title": 3,
-        "Price": 0,
-        "Stock": 0,
-        "Publisher":0,
-        "Threshold": 0
-    },
-    "BPB":{
-        "ISBN": 1,
-        "Title": 2,
-        "Price": 4,
-        "Stock": 5,
+        "Stock": 12,
         "Publisher":0,
         "Threshold": 0
     },
@@ -367,44 +383,44 @@
         "Publisher":9,
         "Threshold": 0
     },
-    "Raghav":{
+    "Variety":{
+        "ISBN": 1,
+        "Title": 2,
+        "Price": 4,
+        "Stock": 5,
+        "Publisher": 7,
+        "Threshold": 0
+    },
+    "Vitasta":{
+        "ISBN": 1,
+        "Title": 2,
+        "Price": 10,
+        "Stock": 4,
+        "Publisher":0,
+        "Threshold": 0
+    },
+    "Viva":{
         "ISBN": 1,
         "Title": 2,
         "Price": 6,
-        "Stock": 7,
-        "Publisher":4,
+        "Stock": 13,
+        "Publisher": 3,
         "Threshold": 0
     },
-    "Lancer":{
-        "ISBN": 1,
-        "Title": 2,
-        "Price": 5,
+    "VOI":{
+        "ISBN": 2,
+        "Title": 3,
+        "Price": 0,
         "Stock": 0,
         "Publisher":0,
         "Threshold": 0
     },
-    "Kaveri":{
-        "ISBN": 2,
-        "Title": 4,
-        "Price": 9,
-        "Stock": 12,
-        "Publisher": 10,
-        "Threshold": 0
-    },
-    "Advait Ashram":{
-        "ISBN": 11,
-        "Title": 4,
-        "Price": 5,
-        "Stock": 6,
-        "Publisher": 13,
-        "Threshold": 0
-    },
-    "Oxford":{
+    "Westland":{
         "ISBN": 1,
-        "Title": 3,
-        "Price": 9,
-        "Stock": 0,
-        "Publisher": 0,
+        "Title": 2,
+        "Price": 7,
+        "Stock": 8,
+        "Publisher": 4,
         "Threshold": 0
-    }    
+    }     
 }
